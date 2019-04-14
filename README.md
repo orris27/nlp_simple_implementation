@@ -1,1 +1,1 @@
-This folder is designed for my learning of NLP.
+Simple implementation for NLP task.
